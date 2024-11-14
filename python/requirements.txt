@@ -1,0 +1,3 @@
+pyaudio
+groq
+python-dotenv
